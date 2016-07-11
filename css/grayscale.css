@@ -250,6 +250,11 @@ a:focus {
   padding: 75px 0;
 }
 
+#photography {
+  width: 200px;
+  padding: 75px 0;
+}
+
 #map {
   width: 100%;
   height: 200px;
