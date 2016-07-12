@@ -39,7 +39,7 @@ p {
   }
 }
 a {
-  color: #42DCA3;
+  color: #3399ff;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
@@ -224,9 +224,10 @@ a:focus {
 
 .download-section {
   width: 100%;
-  padding: 50px 0;
+  padding: 50px;
   color: white;
-  background: url(../img/spirit-island.JPG) no-repeat center center scroll;
+  margin bottom: 250px;
+  background: url(../img/clover.JPG) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -241,17 +242,23 @@ a:focus {
 
 #london {
   width: 50%;
-  padding: 75px 0;
+  padding: 50px;
+  border: 5px solid white;
+  margin: 25px;
 }
 
 #creature {
   width: 200px;
-  padding: 75px 0;
+  padding: 50px;
+  border: 5px solid white;
+  margin: 25px;
 }
 
 #photography {
   width: 200px;
-  padding: 75px 0;
+  padding: 50px;
+  border: 5px solid white;
+  margin: 25px;
 }
 
 #map {
@@ -281,16 +288,16 @@ a:focus {
   border-radius: 0;
 }
 .btn-default {
-  border: 1px solid #42DCA3;
-  color: #42DCA3;
+  border: 1px solid #3399ff;
+  color: #3399ff;
   background-color: transparent;
 }
 .btn-default:hover,
 .btn-default:focus {
-  border: 1px solid #42DCA3;
+  border: 1px solid #3399ff;
   outline: none;
   color: black;
-  background-color: #42DCA3;
+  background-color: #3399ff;
 }
 ul.banner-social-buttons {
   margin-top: 0;
