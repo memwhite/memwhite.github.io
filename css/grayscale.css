@@ -8,7 +8,7 @@ body {
   height: 100%;
   font-family: "Lora", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: white;
-  background-color: black;
+  background-color: #333333;
 }
 html {
   width: 100%;
@@ -241,56 +241,22 @@ a:focus {
   background-size: cover;
   -o-background-size: cover;
 }
+/*
 .row {
   width: 100%
   padding: 50px 0;
   color: white;
-}
+} */
 
-#london {
-  width: 50%;
-  padding: 50px;
-  border: 5px solid white;
+img.portfolio-pic {
+  width: 300px;
+  height: 300px;
+  padding: 25px;
+  border: 3px solid white;
   margin: 25px;
-}
+} 
 
-#creature {
-  width: 200px;
-  padding: 30px;
-  border: 5px solid white;
-  margin: 25px;
-}
 
-#photography {
-  width: 200px;
-  padding: 30px;
-  border: 5px solid white;
-  margin: 25px;
-}
-
-#superstoreapp {
-  width: 250px;
-  height: 250px;
-  padding: 30px;
-  border: 5px solid white;
-  margin: 25px;
-}
-
-#chat{
-  width: 250px;
-  height: 250px;
-  padding: 30px;
-  border: 5px solid white;
-  margin: 25px;
-}
-
-#jslibrary{
-  width: 250px;
-  height: 250px;
-  padding: 30px;
-  border: 5px solid white;
-  margin: 25px;
-}
 
 #map {
   width: 100%;
